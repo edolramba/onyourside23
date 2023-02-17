@@ -1,0 +1,2 @@
+# host 체크없이 실행하기
+ng serve --host=192.168.0.2 --disable-host-check

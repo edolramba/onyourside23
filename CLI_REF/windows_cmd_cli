@@ -1,0 +1,6 @@
+# 실행되고 있는 python 프로그램 찾기
+tasklist /FI "IMAGENAME eq python.exe"
+# 특정 PID 프로그램 종료
+taskkill /pid 프로세스아이디 /f
+# 전체 파이썬 프로그램 종료
+taskkill /f /im python.exe
