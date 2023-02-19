@@ -1,30 +1,7 @@
-OnYourSide22
-OnYourSide22 is an automated stock trading program that you can customize to suit your preferences.
+# OnYourSide22
 
-Usage
-To run the program, execute kiwoom.py located in /server/kiwoom/.
+당신의 편에 설 수 있는 주식 자동매매 프로그램
 
-Requirements
-Python 3.6+
-PyQt5
-PyWin32
-Getting Started
-Clone the repository.
+## 사용방법
 
-bash
-Copy code
-git clone https://github.com/edolramba/OnYourSide22.git
-Install dependencies.
-
-Copy code
-pip install -r requirements.txt
-Configure the program settings.
-
-Edit the config.ini file located in the root directory of the project.
-
-Run the program.
-
-Execute kiwoom.py located in /server/kiwoom/.
-
-License
-This project is licensed under the MIT License.
+프로젝트 실행방법 : `/server/kiwoom/kiwoom.py` 실행
